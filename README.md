@@ -68,6 +68,13 @@ vehicle-lane-detection/
 - 部署到 Hugging Face Spaces 实现永久在线
 - 尝试 TensorRT / ONNX 加速
 
+## 模型下载
+
+- 车辆检测模型： [点击下载 best.pt](https://drive.google.com/file/d/1spszdRTamSIiNfXCeNxJ-qor7coAXhAL/view?usp=sharing)
+- 车道线分割模型： [点击下载 best.pt](https://drive.google.com/file/d/1vajJDR6lPfbOQ_FdUstHpuZkzIhXE1Yk/view?usp=sharing)
+
+Demo 链接：https://a6cb3368e752bd896d.gradio.live
+
 ## 作者：韩志强
 ## 项目定位：计算机视觉 / 自动驾驶感知入门项目
 
